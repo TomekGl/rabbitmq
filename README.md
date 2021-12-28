@@ -1,2 +1,3 @@
 # rabbitmq
-RabbitMQ build with plugins
+RabbitMQ image build with plugins:
+* https://github.com/rabbitmq/rabbitmq-message-timestamp
